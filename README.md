@@ -2,6 +2,15 @@
 
 An end-to-end Natural Language Processing (NLP) project that classifies movie reviews as **Positive** or **Negative** using TF-IDF and Logistic Regression.
 
+## Live Demo
+
+🚀 **Try the application:** [Movie Review Sentiment Analysis](https://movie-review-sentiment-analysis-m24y9rxy2vx8gonnpbmthl.streamlit.app/)
+
+Enter a movie review and get:
+- Positive or Negative sentiment
+- Prediction confidence
+- Real-time prediction from the trained NLP model
+
 ## Results
 
 | Metric | Score |
